@@ -1,5 +1,5 @@
 # SmartVoyager-Empowering-Trips-with-Intelligent-Insights
-## Moto: Analyze the trip data to plan the upcomming trips efficiently.
+## Project Moto: Analyze the trip data to plan the upcomming trips efficiently.
 The SmartVoyager dashboard provides comprehensive trip insights for travelers, helping them analyze past trips, predict costs, and optimize planning. By leveraging key metrics and visualization techniques, this project enhances decision-making for efficient travel.
 
 ### Dataset Overview
