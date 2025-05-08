@@ -49,4 +49,5 @@ The dashboard helps in trip planning, cost analysis, and customer trends.
 Users can analyze which cities have the highest trips, revenue, and customer loyalty.
 
 It provides data-driven decisions for smarter travel management.
+
 ![image](https://github.com/user-attachments/assets/74081169-965f-4636-be49-9aee678996b8)
