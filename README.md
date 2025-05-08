@@ -24,7 +24,7 @@ monthly_target_new_passengers.csv – Defines monthly targets for acquiring new 
 
 monthly_target_trips.csv – Sets monthly goals for total trips taken.
 
-#### What I did In this project: 
+### What I did In this project: 
 Creating the SmartVoyager trip analysis dashboard involved four main steps:
 
 1. Data Collection & Cleaning
